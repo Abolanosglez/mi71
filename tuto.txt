@@ -1,89 +1,109 @@
-[Reenviado de ⚙️Soporte Bots Free⚙️]
-☺️Bienvenidos A TGMoodleFreeV1.5☺️
-———————————————-——-
-❗️Requisitos Tener Cuenta En❗️
-———————————————-——-
-📡Páginas funcionales Pv:
-http://moodle.uclv.edu.cu/
-https://evead.unah.edu.cu/
-https://evea.uh.cu/
+🍜Bot Iniciado⛩
+Bienvenido a mi bot de descarga
 
-📡Publicas:
-https://cursos.uo.edu.cu/
-https://eva.uo.edu.cu/
+💡 Como Descargar
 
-⚙️Usuarios Soporte⚙️
-@developer01dev
-@shapingdev
+🧰 Los comando para configurar el bot son:
+
+/start ⛩Iniciar Bot⛩
+
+/tutorial 📖Abrir el Tutorial
+
+/my 👤Información 
+
+/files 📋Archivos subidos
+
+/dir 📂Carpeta a subir
+
+/about Info del bot
+
+/host ⚙️Configura URL de la nube ☁️
+
+/account ⚙️Configura (usuario,contraseña)
+
+/repo 📝Repo ID (Dejan en el #4)
+
+/zips ⚙️Configura Tamaños de los archivos📦
+
+/proxy 💡Activa Proxy (Más velocidad)
+
+/search_proxy 💡El bot busca un proxy
+
+/crypt 💡Encrypta el proxy
+
+/decrypt 💡Descrypta un proxy
+
+/token_on ✳️Avilita la descarga de archivos de nubes que no dan token
+
+/token_off ✳️Desavilita la opción
+
+/uptype ⏫Cambia subda de los archivos (evidence,draft,blog,calendar,perfil)
+
+/cloud ☁️Cambia tipo (moodle o cloud)
+
 ———————————————-——-
-⚙️Spoporte De Urls⚙️
+⚙️Spoporte De Urls y generar enlaces⚙️
 ———————————————-——-
+💡Puede descargar desde:
 apkpure
 mega (Archivos y Carpetas)
 mediafire (Archivos)
 Youtube (Nota: Descargas un poco lentas)
+Telegram (Archivos reenviados)
 
--Para generar un enlace de un archivo de telegram reenvie el archivo a @tg_file_link_bot y le respondra con un mensaje de varios botons, deje apretado el primer boton y copie el enlace.
+🔗Pasos para generar los link de descarga con el bot
 
-Hablar con los de soporte para q les de
-un tiempo de prueba al bot
+1/ isiciar uno de estos bot 
+@Link4FilesBot
+@tg_file_link_bot u otro que encuentres hay varios
+Y unirse al canal de el bot 
+2/Buscar el video/apk etc.. lo q quiere descargar y reenviarlo(deje presionado y use el botón reenviar y luego seleccione el chat a reenviar) a uno de esos bot
+Para reenviar los videos al bot solamente tocas al lado del video/apk etc.. y tocas (reenviar) en las opciones luego seleccionas el bot y renvias
+3/ el bot le dara un link el cual usted debe copiar y luego pegar en su bot de descarga(este) y el bot comensara a trabajar
+📄Nota: Desde los demás sitios soportados o enlaces de descarga directa simplemente envié el enlace en este bot y listo
 ———————————————-——-
-📑Tutorial📑
+📑Configurando el bot📑
 ———————————————-——-
 -Al entrar en el bot les va a pedir su cuenta de moodle, antes especifique su host (ejemplo https://moodle.uclv.edu.cu/) y depues configure su cuenta enviandole al bot el comando /account  seguido myusuario,contraseña .
 -Puede cambiar el tamaño de los archivos comprimidos enviandole al bot el comando /zips tamaño
-———————————————-——-
-📑Ejemplo de Descarga📑
-———————————————-——-
-📥Descargando... 
-🔖Nombre: [GM]NFSHv107FW6[EU].part3.rar
-🗂Tamaño Total: 1.6GiB
-🗂Descargado: 128.0KiB
-📶Velocidad: 128.0KiB/s
-/cancel_asd9ajas9
+Para configurar el bot solo tienes q seguir los siquierntes pasos
+/host
+Este comando es para configurar la nuve q usaras ejemplo
+/host https://eduvirtual.uho.edu.cu/
+/acc
+Este comando es para configurar el user y la contraseña de la nuve q usaras ejemplo
+/acc usuario,contraseña
+/zip
+Este comando es para configurar el tamaño de cada parte q el bot enviara dependiendo de la nuve ejemplo
+/zip 350
+/repo3 o 4 es para q la nuve t de el txt
 
--Para Cancelar Una Descarga Basta Con Tocar El Comando /cancel_asd9ajas9 y al cabo de 3s se cancelara
+-Nota: Las subidas no se cancelan-
 ———————————————-——-
-📑Ejemplo de Subida📑
+📑Ejemplo Proceso Terminado y borrar nube📑
 ———————————————-——-
-⏫Subiendo A La Nube☁️... 
-🔖Nombre: miui_LIMEGlobal_V12.5.3.0.RJQMIXM_5e23b81214_11.0.zip
- (http://miui_limeglobal_v12.5.3.0.rjqmixm_5e23b81214_11.0.zip/) (http://miui_limeglobal_v12.5.3.0.rjqmixm_5e23b81214_11.0.zip/)⏫Subiendo: miui_LIMEGlobal_V127z.009
-🗂Tamaño Total: 195.9MiB
-🗂Subido: 176.0MiB
-📶Velocidad: 20.8MiB/s
--Nota: Las Subidas No Se Cancelan
-———————————————-——-
-📑Ejemplo Proceso Terminado📑
-———————————————-——-
-📌Proceso Finalizado📌
-🔖Nombre: miui_LIMEGlobal_V12.5.3.0.RJQMIXM_5e23b81214_11.0.zip
- (http://miui_limeglobal_v12.5.3.0.rjqmixm_5e23b81214_11.0.zip/) (http://miui_limeglobal_v12.5.3.0.rjqmixm_5e23b81214_11.0.zip/)🗂Tamaño Total: 2.5GiB
-📂Tamaño Partes: 300.0MiB
-📤Partes Subidas: 9/9
+》Proceso Finalizado
+》Nombre: Halo.S01e03-(dual-latino)(1080p).mp4
+ (http://miui_limeglobal_Halo.S01e03-(dual-latino)(1080p).mp4/) (http://miui_limeglobal_Halo.S01e03-(dual-latino)(1080p).mp4/)》Tamaño Total: 414MiB
+》Tamaño Partes: 2.0GiB
+》Partes Subidas: 1/1
 
-📄Archivo: /file_10
-📘TxT: /txt_10
-🗑Borrar Archivo: /del_10
+》Archivo: /file_10
+》TxT: /txt_10
+》Borrar Archivo: /del_10
 
--Para Extraer EL/Los Enlaces del archivo basta con tocar /file_10
--Para Extraer EL/Los Enlaces del archivo en un txt basta con tocar /txt_10
--Para Borrar EL archivo basta con tocar /txt_10
--Nota: En Caso de q extraiga un archivo q no es envie el comando /files y espera a q salga la lista de arcvhivos
+-Para Extraer EL/Los Enlaces del archivo basta con tocar /file_#de lo que quieres -
+-Para Extraer EL/Los Enlaces del archivo en un txt basta con tocar /txt_10 -
+-Para Borrar EL archivo basta con tocar /del_10 - /del_0 bórra el primer archivo de la nube si quiere vaciar la repita este comando hasta q no quede nada
+-Nota: En Caso de q extraiga un archivo q no es envie el comando /files y espera a q salga la lista de arcvhivos-
 ———————————————-——-
-📑Ejemplo Lista De Archivos📑
-———————————————-———————————————-——-
-📑Archivos (4):
-/txt_0 /file_0 /del_0
-Crea un Repack Personalizado  BlackBox  HD.
+📑Para descargar usando xdownloader📑
+———————————————-———————————————-
+Los pasos para descargar de la eduvirtual
 
-/txt_1 /file_1 /del_1
-How to Create a Modern Login Window in WPF using C# | C# Tutorial.
+1 Al finalizar la subida tocas el link q te llebara a la nuve el cual te dira q el archivo no existe 
+2 tocar (continuar) y luego poner usuario y contraseña de la cuenta y entrar
+3 una ves dentro volver a tocar el link nuevamente en telegram (el q te dio el bot) y comensara la descarga 
 
-/txt_2 /file_2 /del_2
-Phoenix Browser Fast Safe_v9.
-
-/txt_3 /file_3 /del_3
-Snapchat_v11.
-———————————————-——-
-☺️Feliz Estadia Fim.☺️
+* Si algunas nubes y moodles no necesitan contraseña así q puedes descargar directamente
+Eso es todo
